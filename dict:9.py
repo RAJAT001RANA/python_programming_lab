@@ -1,4 +1,4 @@
-dct={'name':'rishit','sec':'f','rolln':40,'Name':'rishit'}
+dct={'name':'rajat','sec':'f','rolln':39,'Name':'rajat'}
 ls=[]
 res=dict()
 for key,val in dct.items():
